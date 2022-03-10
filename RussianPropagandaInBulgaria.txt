@@ -1,4 +1,5 @@
 10tka.eu
+1chas.bg
 30dumi.com
 365novini.com
 7plus7.net
@@ -27,6 +28,7 @@ dailyknowledge.eu
 desinfowar.wordpress.com
 dnesplus.bg
 duma.bg
+ejednevno.eu
 focus-news.net
 forumnews.bg
 glasove.com
@@ -43,11 +45,12 @@ media-bg.eu
 mejdu-redovete.com.
 nepoznato.energetika-bg.com
 newsline.bg
-newsuik.eu/?p=43842&oid=1328684
+newsuik.eu
+nbox.bg
 no-comment.bg/face-to-face
-novjivot.info
 novinar.bg
 novini.cc
+novjivot.info
 otvorenopismo.orgfree.com
 ovarna.bg
 palachinka.net
