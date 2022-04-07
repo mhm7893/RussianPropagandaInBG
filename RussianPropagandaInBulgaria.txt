@@ -1,4 +1,5 @@
 10tka.eu
+19min.bg
 1chas.bg
 30dumi.com
 365novini.com
@@ -11,6 +12,7 @@ a-specto.bg
 avantage.bg
 bez-cenzura.com
 bezpartien.com
+bgl-biz.com/new-civilization
 bgmak.eu
 bgnews.me
 bgnow.eu
@@ -20,6 +22,7 @@ blitz.bg
 bnoshipka.org
 bnr.bg/horizont/deconstruction/broadcast#
 bradva.bg
+budnaera.com
 bulgaria365.eu
 burgas-dnes.eu
 burgas-podlupa.com
@@ -40,14 +43,15 @@ istinata.net
 jenabg.com
 lentata.com
 livenews.bg
-m.19min.bg
 marica.bg
 media-bg.eu
 mejdu-redovete.com.
-nepoznato.energetika-bg.com
-newsline.bg
-newsuik.eu
 nbox.bg
+nepoznato.energetika-bg.com
+news.bg
+newsline.bg
+newsru.bg
+newsuik.eu
 no-comment.bg/face-to-face
 novinar.bg
 novini.cc
@@ -63,7 +67,8 @@ pogled.info
 presa.bg
 razkritia.com
 rusofili.bg
-saprotiva.org/
+saprotiva.org
+sekirabg.net
 sieminehn.wordpress.com
 silnabulgaria.com
 skandal.bg
@@ -80,8 +85,4 @@ vestnikataka.bg
 vsekiden.com
 webnovinar.com
 worldtodaybg.com
-www.bgl-biz.com/new-civilization
-www.budnaera.com
-www.news.bg
-www.newsru.bg
 zadkulisite.com
